@@ -1,2 +1,4 @@
+
 *.html linguist-vendored
+*.ipynb linguist-vendored
 *.py linguist-language=python
